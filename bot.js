@@ -8,7 +8,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const YouTube = require('simple-youtube-api');
 
-const youtube = new YouTube("AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8");
+const youtube = new YouTube("NTk2NTg4OTg1NzU3ODU5ODQy.XR9yOw.O4qJHy1YVjypz9e8AgpLODd8M-A");
 
 const queue = new Map();
 
@@ -227,4 +227,4 @@ function play(guild, song) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);NTk2NTg4OTg1NzU3ODU5ODQy.XR9yOw.O4qJHy1YVjypz9e8AgpLODd8M-A
